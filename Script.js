@@ -17,5 +17,6 @@ var coordenadas = () => {
 }
 
 btnyes.addEventListener('click', () => {
-    alert('Sabia que dirias que si :3');
+    alert('Ya sabia que querias ser mi novia');
 });
+© 2021 GitHub, Inc.
